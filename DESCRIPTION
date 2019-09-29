@@ -1,0 +1,13 @@
+Package: fishrysim
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R:
+    person(given = "John",
+           family = "Best",
+           role = c("aut", "cre"),
+           email = "jkbest@gmail.com",
+           comment = c(ORCID = "0000-0002-8920-0900"))
+Description: Simulate a spatiotemporally dynamic fishery in a fixed domain.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
